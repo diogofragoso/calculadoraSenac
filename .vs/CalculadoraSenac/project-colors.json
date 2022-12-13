@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b5f7b855-94fd-4ab6-a58f-8ba2d7767b20": {
+      "ProjectGuid": "b5f7b855-94fd-4ab6-a58f-8ba2d7767b20",
+      "DisplayName": "CalculadoraSenac",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
