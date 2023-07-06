@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31919.166
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculadoraSenac", "CalculadoraSenac.csproj", "{B5F7B855-94FD-4AB6-A58F-8BA2D7767B20}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "InstaladorCalc", "instalador\InstaladorCalc\InstaladorCalc.vdproj", "{9A850D38-5BCF-491E-9C30-907B966178CE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,8 @@ Global
 		{B5F7B855-94FD-4AB6-A58F-8BA2D7767B20}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B5F7B855-94FD-4AB6-A58F-8BA2D7767B20}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B5F7B855-94FD-4AB6-A58F-8BA2D7767B20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A850D38-5BCF-491E-9C30-907B966178CE}.Debug|Any CPU.ActiveCfg = Debug
+		{9A850D38-5BCF-491E-9C30-907B966178CE}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

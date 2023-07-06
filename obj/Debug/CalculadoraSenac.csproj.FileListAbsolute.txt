@@ -1,0 +1,11 @@
+C:\Users\diogo.fsilva1\source\repos\calculadoraSenac\bin\Debug\CalculadoraSenac.exe.config
+C:\Users\diogo.fsilva1\source\repos\calculadoraSenac\bin\Debug\CalculadoraSenac.exe
+C:\Users\diogo.fsilva1\source\repos\calculadoraSenac\bin\Debug\CalculadoraSenac.pdb
+C:\Users\diogo.fsilva1\source\repos\calculadoraSenac\obj\Debug\CalculadoraSenac.csproj.AssemblyReference.cache
+C:\Users\diogo.fsilva1\source\repos\calculadoraSenac\obj\Debug\CalculadoraSenac.csproj.SuggestedBindingRedirects.cache
+C:\Users\diogo.fsilva1\source\repos\calculadoraSenac\obj\Debug\CalculadoraSenac.Form1.resources
+C:\Users\diogo.fsilva1\source\repos\calculadoraSenac\obj\Debug\CalculadoraSenac.Properties.Resources.resources
+C:\Users\diogo.fsilva1\source\repos\calculadoraSenac\obj\Debug\CalculadoraSenac.csproj.GenerateResource.cache
+C:\Users\diogo.fsilva1\source\repos\calculadoraSenac\obj\Debug\CalculadoraSenac.csproj.CoreCompileInputs.cache
+C:\Users\diogo.fsilva1\source\repos\calculadoraSenac\obj\Debug\CalculadoraSenac.exe
+C:\Users\diogo.fsilva1\source\repos\calculadoraSenac\obj\Debug\CalculadoraSenac.pdb
